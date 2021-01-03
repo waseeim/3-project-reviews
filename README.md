@@ -1,6 +1,6 @@
 # Introduction
 
-The material is studied from free code camp
+From free code camp
 
 ## Available Scripts
 
